@@ -1,0 +1,11 @@
+<SpawnConfig>
+
+  <entry id="Enderman" mobName="Enderman" creatureType="monster" rate="30" minGroupSize="1" maxGroupSize="2">
+    <biomeFilter type="any">
+      <biome type="BASE_LAND_TYPES" />
+    </biomeFilter>
+  </entry>
+  
+  </SpawnConfig>
+
+
