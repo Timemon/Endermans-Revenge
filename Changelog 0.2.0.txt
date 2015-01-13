@@ -1,0 +1,40 @@
+0.2.0
+
+	- Added Inventory Tweaks
+	- Added MineLoader
+	- Added ModTweaker
+	- Added OPIS
+	- Updated Forge
+	- Updated AOBD
+	- Updated Botania
+	- Updated Binnie's Mods
+	- Updated COFH Core
+	- Updated Iguana Tinker Tweaks
+	- Updated NEI Intergration
+	- Updated PneumaticCraft
+	- Updated Tinkers Construct
+	- Updated TiC ToolTips
+	- Updated Thaumcraft
+	- Updated Thermal Foundation
+	- Removed WR-CBE
+	- Played with Mine tweaker
+		- Added ore dictionary support to new Computer Craft  recipes
+		- Removed 'Remove Recipe' from NEI
+		- Removed some Extra Utilities Generators
+		- Removed Fluid Transposer recipe for full Tesseract Frame (although it was already impossible to get)
+		- tweaked Botania Dungeon Chest rates
+	
+
+
+0.1.0
+
+	-Botania
+		- Removed flower generation
+		- Added Floral Fertiliser to Dungeon Chests
+		- Added Jaded Amaranth to dungeon Chests
+		
+	- ComputerCraft
+		- Made almost all recipes Harder
+		
+	- Anti-teleportation
+		- Removed as much mod related 'teleportation' as possible
