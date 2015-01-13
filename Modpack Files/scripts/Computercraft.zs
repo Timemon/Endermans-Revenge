@@ -1,5 +1,4 @@
-#disables default recipes
-#	recipes.remove();
+//disables default recipes
 	recipes.remove(<ComputerCraft:CC-Computer>);
 	recipes.remove(<ComputerCraft:CC-Computer:16384>);
 	recipes.remove(<ComputerCraft:CC-Turtle>);
@@ -18,44 +17,43 @@
 
 	
 
-#adds harder recipes
-#	recipes.addShaped(
+//adds harder recipes
 	recipes.addShaped(<ComputerCraft:CC-Computer>,[[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],
-													[<minecraft:iron_block>, <minecraft:redstone_block>, <minecraft:iron_block>],
-													[<minecraft:iron_block>, <minecraft:glass>, <minecraft:iron_block>]]);
+													[<minecraft:iron_block>, <ore:blockRedstone>, <minecraft:iron_block>],
+													[<minecraft:iron_block>, <ore:blockGlass>, <minecraft:iron_block>]]);
 													
 	recipes.addShaped(<ComputerCraft:CC-Computer:16384>,[[<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>],
-													[<minecraft:gold_block>, <minecraft:redstone_block>, <minecraft:gold_block>],
-													[<minecraft:gold_block>, <minecraft:glass>, <minecraft:gold_block>]]);
+													[<minecraft:gold_block>, <ore:blockRedstone>, <minecraft:gold_block>],
+													[<minecraft:gold_block>, <ore:blockGlass>, <minecraft:gold_block>]]);
 													
 	recipes.addShaped(<ComputerCraft:CC-Turtle>,[[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
 												[<ThermalExpansion:material>, <ComputerCraft:CC-Computer>, <ThermalExpansion:material>],
-												[<ThermalFoundation:material:12>, <IronChest:BlockIronChest>, <ThermalFoundation:material:12>]]);
+												[<ore:gearIron>, <IronChest:BlockIronChest>, <ore:gearIron>]]);
 												
 	recipes.addShaped(<ComputerCraft:CC-TurtleAdvanced>,[[<minecraft:gold_ingot>, <minecraft:gold_ingot>, <minecraft:gold_ingot>],
 														[<ThermalExpansion:material>, <ComputerCraft:CC-Computer:16384>, <ThermalExpansion:material>],
-														[<ThermalFoundation:material:13>, <IronChest:BlockIronChest:1>, <ThermalFoundation:material:13>]]);
+														[<ore:gearGold>, <IronChest:BlockIronChest:1>, <ore:gearGold>]]);
 												
 	recipes.addShaped(<ComputerCraft:CC-Peripheral:1>,[[<minecraft:iron_ingot>, <ExtraUtilities:decorativeBlock1:1>, <minecraft:iron_ingot>],
 														[<ExtraUtilities:decorativeBlock1:1>, <minecraft:ender_eye>, <ExtraUtilities:decorativeBlock1:1>],
 														[<minecraft:iron_ingot>, <ExtraUtilities:decorativeBlock1:1>, <minecraft:iron_ingot>]]);
 														
 	recipes.addShaped(<ComputerCraft:CC-Peripheral>,[[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
-													[<minecraft:iron_ingot>, <minecraft:redstone_block>, <minecraft:iron_ingot>],
-													[<minecraft:iron_ingot>, <minecraft:redstone_block>, <minecraft:iron_ingot>]]);
+													[<minecraft:iron_ingot>, <ore:blockRedstone>, <minecraft:iron_ingot>],
+													[<minecraft:iron_ingot>, <ore:blockRedstone>, <minecraft:iron_ingot>]]);
 													
 	recipes.addShaped(<ComputerCraft:CC-Peripheral:3>,[[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
-													[<minecraft:iron_ingot>, <minecraft:redstone_block>, <minecraft:iron_ingot>],
-													[<minecraft:iron_ingot>, <minecraft:dye>, <minecraft:iron_ingot>]]);
+													[<minecraft:iron_ingot>, <ore:blockRedstone>, <minecraft:iron_ingot>],
+													[<minecraft:iron_ingot>, <ore:dyeBlack>, <minecraft:iron_ingot>]]);
 													
 	recipes.addShaped(<ComputerCraft:CC-Cable:1>,[[<minecraft:iron_ingot>, <minecraft:stone>, <minecraft:iron_ingot>],
-													[<minecraft:stone>, <minecraft:redstone_block>, <minecraft:stone>],
+													[<minecraft:stone>, <ore:blockRedstone>, <minecraft:stone>],
 													[<minecraft:iron_ingot>, <minecraft:stone>, <minecraft:iron_ingot>]]);
 													
 	recipes.addShaped(<ComputerCraft:pocketComputer>,[[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],
 													[<minecraft:iron_block>, <ComputerCraft:CC-Computer>, <minecraft:iron_block>],
-													[<minecraft:iron_block>, <minecraft:glass>, <minecraft:iron_block>]]);
+													[<minecraft:iron_block>, <ore:blockGlass>, <minecraft:iron_block>]]);
 													
 	recipes.addShaped(<ComputerCraft:pocketComputer:1>,[[<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>],
 													[<minecraft:gold_block>, <ComputerCraft:CC-Computer:16384>, <minecraft:gold_block>],
-													[<minecraft:gold_block>, <minecraft:glass>, <minecraft:gold_block>]]);
+													[<minecraft:gold_block>, <ore:blockGlass>, <minecraft:gold_block>]]);
