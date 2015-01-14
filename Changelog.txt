@@ -1,3 +1,11 @@
+0.3.0
+	
+	- Added Sprinkles for Vanilla
+		- Disabled Ender Pearl's teleportation ability
+	- Updated Automagy
+	- Updated Botania
+	- Updated Thermal Foundation
+	
 0.2.0
 
 	- Added Inventory Tweaks
