@@ -5,6 +5,12 @@
 	- Updated Automagy
 	- Updated Botania
 	- Updated Thermal Foundation
+	- Played with Mine Tweaker
+		- Added tool tip to ender pearls
+	- Played with Hardcore Ender Expansion
+		- changed ender man spawn modifier to 1x
+	- Played with Enderzoo
+		-Increased Endermen spawn rates
 	
 0.2.0
 
