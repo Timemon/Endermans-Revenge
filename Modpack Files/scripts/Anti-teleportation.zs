@@ -67,3 +67,5 @@
 	//IC2
 		<IC2:blockMachine2>.addTooltip(format.darkRed("These are now disabled"));
 		
+// Adds tool tip to ender pearls 
+	<minecraft:ender_pearl>.addTooltip(format.darkRed("You feel a strange block")); 

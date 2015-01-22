@@ -8,7 +8,7 @@ saddledCanWander = false
 
 // The default name height is 2.3 blocks from the ground. You can add height
 // up to 10 blocks by the number given as renderNameHeight.
-renderNameHeight = 0.0
+renderNameHeight = 0.5
 
 // The value given as livingSoundProbabilitywill determine the Chocobo 'Kweh' frequency.
 // The system will call a method to trigger the living sound and the Chocobo will do a
@@ -24,7 +24,7 @@ gysahlGreenMutationRate = 100
 gysahlLoverlyMutationRate = 100
 
 // value between 1 and 999, with 1 for very few wild gysahl and 999 very many.
-gysahlGreenWorldGenerationRate = 160
+gysahlGreenWorldGenerationRate = 20
 
 // Cool down phase between breeding
 breedingDelayFemale = 9000

@@ -2,7 +2,7 @@
 
 import mods.nei.NEI;
 
-//Hides from NEI
+//Hides from NEI Anti-teleportation
 	//extra  utilities
 		NEI.hide(<ExtraUtilities:nodeUpgrade:6>);
 		NEI.hide(<ExtraUtilities:nodeUpgrade:5>);
@@ -38,47 +38,53 @@ import mods.nei.NEI;
 		NEI.hide(<IC2:blockMachine2>);
 		
 		
-		
+//misc
+
 	//Extra Utilities Generators
-			// 1x
-				//NEI.hide(<ExtraUtilities:generator:0>);		//Survivalist Generator
-				//NEI.hide(<ExtraUtilities:generator:1>);		//Furnace 
-				NEI.hide(<ExtraUtilities:generator:2>);			//Lava
-				NEI.hide(<ExtraUtilities:generator:3>);			//Ender
-				NEI.hide(<ExtraUtilities:generator:4>);			//Heated Redstone
-				NEI.hide(<ExtraUtilities:generator:5>);			//Culinary
-				NEI.hide(<ExtraUtilities:generator:6>);			//Potions
-				//NEI.hide(<ExtraUtilities:generator:7>);		//Solar
-				//NEI.hide(<ExtraUtilities:generator:8>);		//TNT
-				NEI.hide(<ExtraUtilities:generator:9>);			//Pink
-				//NEI.hide(<ExtraUtilities:generator:10>);		//High-temperature Furnace
-				//NEI.hide(<ExtraUtilities:generator:11>);		//Nether Star
+		// 1x
+			//NEI.hide(<ExtraUtilities:generator:0>);		//Survivalist Generator
+			//NEI.hide(<ExtraUtilities:generator:1>);		//Furnace 
+			NEI.hide(<ExtraUtilities:generator:2>);			//Lava
+			NEI.hide(<ExtraUtilities:generator:3>);			//Ender
+			NEI.hide(<ExtraUtilities:generator:4>);			//Heated Redstone
+			NEI.hide(<ExtraUtilities:generator:5>);			//Culinary
+			NEI.hide(<ExtraUtilities:generator:6>);			//Potions
+			//NEI.hide(<ExtraUtilities:generator:7>);		//Solar
+			//NEI.hide(<ExtraUtilities:generator:8>);		//TNT
+			NEI.hide(<ExtraUtilities:generator:9>);			//Pink
+			//NEI.hide(<ExtraUtilities:generator:10>);		//High-temperature Furnace
+			//NEI.hide(<ExtraUtilities:generator:11>);		//Nether Star
 		
-			// 8x
-				NEI.hide(<ExtraUtilities:generator.8:0>);		//Survivalist Generator
-				NEI.hide(<ExtraUtilities:generator.8:1>);		//Furnace 
-				NEI.hide(<ExtraUtilities:generator.8:2>);		//Lava
-				NEI.hide(<ExtraUtilities:generator.8:3>);		//Ender
-				NEI.hide(<ExtraUtilities:generator.8:4>);		//Heated Redstone
-				NEI.hide(<ExtraUtilities:generator.8:5>);		//Culinary
-				NEI.hide(<ExtraUtilities:generator.8:6>);		//Potions
-				//NEI.hide(<ExtraUtilities:generator.8:7>);		//Solar
-				//NEI.hide(<ExtraUtilities:generator.8:8>);		//TNT
-				NEI.hide(<ExtraUtilities:generator.8:9>);		//Pink
-				//NEI.hide(<ExtraUtilities:generator.8:10>);	//High-temperature Furnace
-				//NEI.hide(<ExtraUtilities:generator.8:11>);	//Nether Star
-		
-			// 64x
-				NEI.hide(<ExtraUtilities:generator.64:0>);		//Survivalist Generator
-				NEI.hide(<ExtraUtilities:generator.64:1>);		//Furnace 
-				NEI.hide(<ExtraUtilities:generator.64:2>);		//Lava
-				NEI.hide(<ExtraUtilities:generator.64:3>);		//Ender
-				NEI.hide(<ExtraUtilities:generator.64:4>);		//Heated Redstone
-				NEI.hide(<ExtraUtilities:generator.64:5>);		//Culinary
-				NEI.hide(<ExtraUtilities:generator.64:6>);		//Potions
-				//NEI.hide(<ExtraUtilities:generator.64:7>);	//Solar
-				NEI.hide(<ExtraUtilities:generator.64:8>);		//TNT
-				NEI.hide(<ExtraUtilities:generator.64:9>);		//Pink
-				NEI.hide(<ExtraUtilities:generator.64:10>);		//High-temperature Furnace
-				//NEI.hide(<ExtraUtilities:generator.64:11>);	//Nether Star
+		// 8x
+			NEI.hide(<ExtraUtilities:generator.8:0>);		//Survivalist Generator
+			NEI.hide(<ExtraUtilities:generator.8:1>);		//Furnace 
+			NEI.hide(<ExtraUtilities:generator.8:2>);		//Lava
+			NEI.hide(<ExtraUtilities:generator.8:3>);		//Ender
+			NEI.hide(<ExtraUtilities:generator.8:4>);		//Heated Redstone
+			NEI.hide(<ExtraUtilities:generator.8:5>);		//Culinary
+			NEI.hide(<ExtraUtilities:generator.8:6>);		//Potions
+			//NEI.hide(<ExtraUtilities:generator.8:7>);		//Solar
+			//NEI.hide(<ExtraUtilities:generator.8:8>);		//TNT
+			NEI.hide(<ExtraUtilities:generator.8:9>);		//Pink
+			//NEI.hide(<ExtraUtilities:generator.8:10>);	//High-temperature Furnace
+			//NEI.hide(<ExtraUtilities:generator.8:11>);	//Nether Star
+			
+		// 64x
+			NEI.hide(<ExtraUtilities:generator.64:0>);		//Survivalist Generator
+			NEI.hide(<ExtraUtilities:generator.64:1>);		//Furnace 
+			NEI.hide(<ExtraUtilities:generator.64:2>);		//Lava
+			NEI.hide(<ExtraUtilities:generator.64:3>);		//Ender
+			NEI.hide(<ExtraUtilities:generator.64:4>);		//Heated Redstone
+			NEI.hide(<ExtraUtilities:generator.64:5>);		//Culinary
+			NEI.hide(<ExtraUtilities:generator.64:6>);		//Potions
+			//NEI.hide(<ExtraUtilities:generator.64:7>);	//Solar
+			NEI.hide(<ExtraUtilities:generator.64:8>);		//TNT
+			NEI.hide(<ExtraUtilities:generator.64:9>);		//Pink
+			NEI.hide(<ExtraUtilities:generator.64:10>);		//High-temperature Furnace
+			//NEI.hide(<ExtraUtilities:generator.64:11>);	//Nether Star
+				
+	// Extra utilities 
+		//drums
+			NEI.hide(<ExtraUtilities:drum>);
+			NEI.hide(<ExtraUtilities:angelRing:*>);
 		

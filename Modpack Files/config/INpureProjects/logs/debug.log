@@ -1,0 +1,120 @@
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Setting up Java Library...
+Setting up FML Library...
+Setting up NEI Library...
+Setting up CreativeTab library...
+Found creative tab: tabBloodMagic
+Found creative tab: misc
+Found creative tab: Automagy
+Found creative tab: tab.backpacks
+Found creative tab: materials
+Found creative tab: tools
+Found creative tab: BigReactors
+Found creative tab: buildingBlocks
+Found creative tab: Botania
+Found creative tab: Botany
+Found creative tab: buildcraft.blocks
+Found creative tab: buildcraft.items
+Found creative tab: buildcraft.boards
+Found creative tab: buildcraft.pipes
+Found creative tab: buildcraft.facades
+Found creative tab: ComputerCraft
+Found creative tab: EnderIO
+Found creative tab: transportation
+Found creative tab: EnderZoo
+Found creative tab: apiculture
+Found creative tab: decorations
+Found creative tab: arboriculture
+Found creative tab: extraUtil
+Found creative tab: combat
+Found creative tab: extraUtil_FMP
+Found creative tab: forestry
+Found creative tab: lepidopterology
+Found creative tab: Genetics
+Found creative tab: IC2
+Found creative tab: tabHardcoreEnderExpansion
+Found creative tab: jabba
+Found creative tab: tabOpenPeripheralAddons
+Found creative tab: tabPneumaticCraft
+Found creative tab: railcraft
+Found creative tab: Random Things
+Found creative tab: RefinedRelocation
+Found creative tab: TConstructBlocks
+Found creative tab: TConstructWeaponry
+Found creative tab: TConstructParts
+Found creative tab: TConstructTools
+Found creative tab: TConstructMaterials
+Found creative tab: redstone
+Found creative tab: food
+Found creative tab: TConstructEquipables
+Found creative tab: TMechworks
+Found creative tab: thaumcraft
+Found creative tab: ThaumicTinkerer
+Found creative tab: brewing
+Found creative tab: thermalexpansion.creativeTabBlocks
+Found creative tab: thermalexpansion.creativeTabItems
+Found creative tab: thermalexpansion.creativeTabTools
+Found creative tab: thermalexpansion.creativeTabFlorbs
+Found creative tab: thermalfoundation.creativeTab
+Found creative tab: thermalfoundation.creativeTabArmor
+Found creative tab: thermalfoundation.creativeTabTools
+Found creative tab: aobd
+Found creative tab: tabWoodChiselBlocks
+Found creative tab: tabModdedChiselBlocks
+Found creative tab: tabStoneChiselBlocks
+Found creative tab: tabOtherChiselBlocks
+Found creative tab: tabChisel
+Found creative tab: tabMetalChiselBlocks
+Found creative tab: ChocoCraft
+Found creative tab: funkylocomotion
+Found creative tab: ganysend
+Found creative tab: ganysnether
+Found creative tab: ganyssurface
+Found creative tab: bdew.gendustry
+Found creative tab: bdew.samples
+Found creative tab: bdew.templates
+Found creative tab: headcrumbs
+Found creative tab: malisisdoors
+Found creative tab: tabSimplyJetpacks
+Found creative tab: xreliquary
+Setting up ForgeMicroblock Library...
+Setting up ExtraUtilities Library...
+Setting up BuildCraft Library...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: vanilla.js
+override called. Params: minecraft, portal
+hide called. Params: minecraft, portal
+Found ItemStack minecraft:portal. 64xtile.portal@0
+override called. Params: minecraft, end_portal
+hide called. Params: minecraft, end_portal
+Found ItemStack minecraft:end_portal. 64xtile.null@0
+override called. Params: minecraft, fire
+hide called. Params: minecraft, fire
+Found ItemStack minecraft:fire. 64xtile.fire@0
+override called. Params: minecraft, water
+hide called. Params: minecraft, water
+Found ItemStack minecraft:water. 64xtile.water@0
+override called. Params: minecraft, lava
+hide called. Params: minecraft, lava
+Found ItemStack minecraft:lava. 64xtile.lava@0
+Loading: ThermalExpansion.js
+override called. Params: florb, 0,1
+override called. Params: ThermalExpansion, florb
+Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
+Loading: Mekanism.js
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: tile.Decoration.BrickFancy_10
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Decoration.BrickFancy_10
+Loading: ExtraUtilities.js
+override called. Params: drum, 0
+override called. Params: ExtraUtilities, drum
+Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
+getRandomMaterial called. Returned: tile.Decoration.BrickFancy_5
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Decoration.BrickFancy_5
+Loading: BuildCraft.js
+getFacadesSize called. Returned: 1053
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 477
+Loading: Bibliocraft.js
+Loading: AppliedEnergistics2.js
+Loading: MFR.js
