@@ -2,8 +2,28 @@
 	
 	- Added Sprinkles for Vanilla
 		- Disabled Ender Pearl's teleportation ability
+	- Added Auto Sapling
+		- edited mcmod.info to reflect the mod name instead of examplemod
+	- Added IniniBows
+	- Added INpureCore
+	- Added OpenModsLib
+	- Added OpenPeripheral
 	- Updated Automagy
 	- Updated Botania
+	- Updated Binnie's Mods
+	- Updated Blood Magic
+	- Updated BuildCraft
+	- Updated Chisel 2
+	- Updated ChocoCraft
+	- Updated COFH Core
+	- Updated Ender IO
+	- Updated Ganys End
+	- Updated Ganys Surface
+	- Updated Gendustry
+	- Updated Malisis Core
+	- Updated Malisis Doors
+	- Updated NEI Intergration
+	- Updated Thaumcraft
 	- Updated Thermal Foundation
 	- Played with Mine Tweaker
 		- Added tool tip to ender pearls
@@ -11,6 +31,17 @@
 		- changed ender man spawn modifier to 1x
 	- Played with Enderzoo
 		-Increased Endermen spawn rates
+	- Played with COFH configs
+		- edited mob/player head drop rates
+		- tweaked fluids
+		- Removed most metal tools from thermal foundation
+	- Played  with binnies core
+		- edited bees machines
+		- doubled hive rates
+	- Played with Gany's surface
+		-increased poop production
+	-Tweaked automagy
+	
 	
 0.2.0
 
