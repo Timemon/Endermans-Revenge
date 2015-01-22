@@ -4,7 +4,7 @@
 		- Disabled Ender Pearl's teleportation ability
 	- Added Auto Sapling
 		- edited mcmod.info to reflect the mod name instead of examplemod
-	- Added IniniBows
+	- Added InfiniBows
 	- Added INpureCore
 	- Added OpenModsLib
 	- Added OpenPeripheral
