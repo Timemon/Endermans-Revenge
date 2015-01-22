@@ -25,6 +25,9 @@
 	- Updated NEI Intergration
 	- Updated Thaumcraft
 	- Updated Thermal Foundation
+	- Played with Extra Utilities
+		- Disabled basic Drum (Bedrockium Drum Still Available)
+		- Removed Angel Wings 
 	- Played with Mine Tweaker
 		- Added tool tip to ender pearls
 	- Played with Hardcore Ender Expansion
